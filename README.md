@@ -451,10 +451,11 @@ sysbench cpu --cpu-max-prime=20000 run
 
 # 15. Author
 
-**Name:** Abhinandan S Belagavi
+**Name:** manojkamath
 
 **Course:** Cloud Computing
 
 **Institution:** KLE Technological University
 
 **Academic Year:** 2026
+

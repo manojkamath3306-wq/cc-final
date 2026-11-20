@@ -1,0 +1,7 @@
+# Local Kubernetes state and generated files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.kube/
+kind-config.local.yaml

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="22" font-family="Arial, sans-serif" font-weight="700" fill="#0f172a">Node Memory Usage</text>
+<text x="380.0" y="54" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#475569">Point-in-time sample from kubectl top nodes</text>
+<line x1="80" y1="340" x2="730" y2="340" stroke="#334155" stroke-width="1.5"/>
+<line x1="80" y1="80" x2="80" y2="340" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="402" text-anchor="middle" font-size="12" font-family="Arial, sans-serif" fill="#334155">Node</text>
+<text x="18" y="210.0" transform="rotate(-90 18 210.0)" text-anchor="middle" font-size="12" font-family="Arial, sans-serif" fill="#334155">Memory usage (Mi)</text>
+<line x1="80" y1="80.0" x2="730" y2="80.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="68" y="84.0" text-anchor="end" font-size="11" font-family="Arial, sans-serif" fill="#475569">710</text>
+<line x1="80" y1="132.0" x2="730" y2="132.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="68" y="136.0" text-anchor="end" font-size="11" font-family="Arial, sans-serif" fill="#475569">568</text>
+<line x1="80" y1="184.0" x2="730" y2="184.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="68" y="188.0" text-anchor="end" font-size="11" font-family="Arial, sans-serif" fill="#475569">426</text>
+<line x1="80" y1="236.0" x2="730" y2="236.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="68" y="240.0" text-anchor="end" font-size="11" font-family="Arial, sans-serif" fill="#475569">284</text>
+<line x1="80" y1="288.0" x2="730" y2="288.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="68" y="292.0" text-anchor="end" font-size="11" font-family="Arial, sans-serif" fill="#475569">141</text>
+<line x1="80" y1="340.0" x2="730" y2="340.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="68" y="344.0" text-anchor="end" font-size="11" font-family="Arial, sans-serif" fill="#475569">0</text>
+<rect x="98.0" y="80.0" width="120.37037037037037" height="260.0" rx="8" fill="#10b981" opacity="0.9"/>
+<text x="158.1851851851852" y="358" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#334155">Control-plane</text>
+<text x="158.1851851851852" y="72.0" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#0f172a">710</text>
+<rect x="314.66666666666663" y="283.9718309859155" width="120.37037037037037" height="56.028169014084504" rx="8" fill="#10b981" opacity="0.9"/>
+<text x="374.8518518518518" y="358" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#334155">Worker</text>
+<text x="374.8518518518518" y="275.9718309859155" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#0f172a">153</text>
+<rect x="531.3333333333333" y="290.5633802816901" width="120.37037037037037" height="49.436619718309856" rx="8" fill="#10b981" opacity="0.9"/>
+<text x="591.5185185185185" y="358" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#334155">Worker 2</text>
+<text x="591.5185185185185" y="282.5633802816901" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#0f172a">135</text>
+</svg>
